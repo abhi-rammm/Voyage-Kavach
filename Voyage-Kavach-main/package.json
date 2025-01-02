@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.3",
+    "@stripe/react-stripe-js": "^2.8.1",
+    "@stripe/stripe-js": "^4.9.0",
+    "axios": "^1.7.7",
+    "firebase": "^11.0.1",
+    "firebase-admin": "^12.7.0",
+    "firebase-functions": "^6.1.0",
+    "lodash.debounce": "^4.0.8",
+    "react-google-places-autocomplete": "^4.1.0",
+    "react-router-dom": "^6.27.0"
+  }
+}
